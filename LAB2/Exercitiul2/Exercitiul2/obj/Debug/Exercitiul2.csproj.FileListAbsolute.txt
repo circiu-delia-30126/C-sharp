@@ -1,0 +1,10 @@
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\bin\Debug\Exercitiul2.exe.config
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\bin\Debug\Exercitiul2.exe
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\bin\Debug\Exercitiul2.pdb
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\obj\Debug\Exercitiul2.csproj.AssemblyReference.cache
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\obj\Debug\Exercitiul2.Form1.resources
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\obj\Debug\Exercitiul2.Properties.Resources.resources
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\obj\Debug\Exercitiul2.csproj.GenerateResource.cache
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\obj\Debug\Exercitiul2.csproj.CoreCompileInputs.cache
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\obj\Debug\Exercitiul2.exe
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul2\Exercitiul2\obj\Debug\Exercitiul2.pdb

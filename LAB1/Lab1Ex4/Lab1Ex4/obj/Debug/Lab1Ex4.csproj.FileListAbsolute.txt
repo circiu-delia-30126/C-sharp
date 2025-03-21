@@ -1,0 +1,7 @@
+C:\AN3_SEM2\II_LAB\Lab1Ex4\Lab1Ex4\obj\Debug\Lab1Ex4.csproj.AssemblyReference.cache
+C:\AN3_SEM2\II_LAB\Lab1Ex4\Lab1Ex4\obj\Debug\Lab1Ex4.csproj.CoreCompileInputs.cache
+C:\AN3_SEM2\II_LAB\Lab1Ex4\Lab1Ex4\bin\Debug\Lab1Ex4.exe.config
+C:\AN3_SEM2\II_LAB\Lab1Ex4\Lab1Ex4\bin\Debug\Lab1Ex4.exe
+C:\AN3_SEM2\II_LAB\Lab1Ex4\Lab1Ex4\bin\Debug\Lab1Ex4.pdb
+C:\AN3_SEM2\II_LAB\Lab1Ex4\Lab1Ex4\obj\Debug\Lab1Ex4.exe
+C:\AN3_SEM2\II_LAB\Lab1Ex4\Lab1Ex4\obj\Debug\Lab1Ex4.pdb

@@ -1,0 +1,7 @@
+C:\AN3_SEM2\II_LAB\Lab1Ex3\Lab1Ex3\bin\Debug\Lab1Ex3.exe.config
+C:\AN3_SEM2\II_LAB\Lab1Ex3\Lab1Ex3\bin\Debug\Lab1Ex3.exe
+C:\AN3_SEM2\II_LAB\Lab1Ex3\Lab1Ex3\bin\Debug\Lab1Ex3.pdb
+C:\AN3_SEM2\II_LAB\Lab1Ex3\Lab1Ex3\obj\Debug\Lab1Ex3.csproj.AssemblyReference.cache
+C:\AN3_SEM2\II_LAB\Lab1Ex3\Lab1Ex3\obj\Debug\Lab1Ex3.csproj.CoreCompileInputs.cache
+C:\AN3_SEM2\II_LAB\Lab1Ex3\Lab1Ex3\obj\Debug\Lab1Ex3.exe
+C:\AN3_SEM2\II_LAB\Lab1Ex3\Lab1Ex3\obj\Debug\Lab1Ex3.pdb

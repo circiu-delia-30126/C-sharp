@@ -1,0 +1,10 @@
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\obj\Debug\Exercitiul4.csproj.AssemblyReference.cache
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\obj\Debug\Exercitiul4.Form1.resources
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\obj\Debug\Exercitiul4.Properties.Resources.resources
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\obj\Debug\Exercitiul4.csproj.GenerateResource.cache
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\obj\Debug\Exercitiul4.csproj.CoreCompileInputs.cache
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\bin\Debug\Exercitiul4.exe.config
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\bin\Debug\Exercitiul4.exe
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\bin\Debug\Exercitiul4.pdb
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\obj\Debug\Exercitiul4.exe
+C:\AN3_SEM2\II_LAB\LAB2\Exercitiul4\Exercitiul4\obj\Debug\Exercitiul4.pdb

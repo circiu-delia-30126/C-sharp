@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AN3_SEM2\\II_LAB\\Lab1Ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DABDC724-6B05-4E4A-B778-701B2EC859A8}|Lab1Ex3\\Lab1Ex3.csproj|c:\\an3_sem2\\ii_lab\\lab1ex3\\lab1ex3\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABDC724-6B05-4E4A-B778-701B2EC859A8}|Lab1Ex3\\Lab1Ex3.csproj|solutionrelative:lab1ex3\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABDC724-6B05-4E4A-B778-701B2EC859A8}|Lab1Ex3\\Lab1Ex3.csproj|C:\\AN3_SEM2\\II_LAB\\Lab1Ex3\\lab1ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABDC724-6B05-4E4A-B778-701B2EC859A8}|Lab1Ex3\\Lab1Ex3.csproj|solutionrelative:lab1ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Temperatura.cs",
+              "DocumentMoniker": "C:\\AN3_SEM2\\II_LAB\\Lab1Ex3\\Lab1Ex3\\Temperatura.cs",
+              "RelativeDocumentMoniker": "Lab1Ex3\\Temperatura.cs",
+              "ToolTip": "C:\\AN3_SEM2\\II_LAB\\Lab1Ex3\\Lab1Ex3\\Temperatura.cs",
+              "RelativeToolTip": "Lab1Ex3\\Temperatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:51:20.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AN3_SEM2\\II_LAB\\Lab1Ex3\\Lab1Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1Ex3\\Program.cs",
+              "ToolTip": "C:\\AN3_SEM2\\II_LAB\\Lab1Ex3\\Lab1Ex3\\Program.cs",
+              "RelativeToolTip": "Lab1Ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:48:54.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

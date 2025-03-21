@@ -1,0 +1,11 @@
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\bin\Debug\Lab2_ex1.exe.config
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\bin\Debug\Lab2_ex1.exe
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\bin\Debug\Lab2_ex1.pdb
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\obj\Debug\Lab2_ex1.csproj.AssemblyReference.cache
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\obj\Debug\Lab2_ex1.Form1.resources
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\obj\Debug\Lab2_ex1.Properties.Resources.resources
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\obj\Debug\Lab2_ex1.csproj.GenerateResource.cache
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\obj\Debug\Lab2_ex1.csproj.CoreCompileInputs.cache
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\obj\Debug\Lab2_ex1.exe
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\obj\Debug\Lab2_ex1.pdb
+C:\AN3_SEM2\II_LAB\LAB2\Lab2_ex1\Lab2_ex1\obj\Debug\Lab2_ex1.Form2.resources
